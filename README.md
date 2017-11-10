@@ -1,2 +1,2 @@
-# Findingdoners
+# Findingdonors
 Supervised Learning Project
